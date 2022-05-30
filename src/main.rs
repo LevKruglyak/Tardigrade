@@ -8,7 +8,6 @@ fn main() {
 
 #[derive(Default)]
 struct TardigradeApp {
-    
 }
 
 impl TardigradeApp {
